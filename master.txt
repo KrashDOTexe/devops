@@ -1,3 +1,13 @@
 this is master file
 
 changes made
+
+$ pwd
+$ mkdir devops
+$ cd devops
+devops $ git –version
+devops $ git –help
+devops $ git cofig –global user.name “RKDevOps12”
+devops $ git cofig –global user.email ramkrishnak24@gmail.com
+devops $ git cofig –list
+devops $ git init
